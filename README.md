@@ -7,37 +7,30 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Engineering Fresher at **KPRIET**, Tamil Nadu  
-- 🌱 Currently learning **Python**, **C**, and **Git/GitHub**  
-- 🎯 Working toward my first **Google Summer of Code (GSoC)** contribution  
-- 💻 Built and deployed real websites using AI-assisted development tools  
+- 🎓 Engineering Fresher at **KPRIET**, Tamil Nadu
+- 🌱 Currently learning **Python**, **C**, and **Git/GitHub**
+- 🎯 Working toward my first **Google Summer of Code (GSoC)** contribution
+- 💻 Built and deployed real websites using AI-assisted development tools
 - 📫 Reach me on GitHub via [@shivakalaiarasan2008-cpu](https://github.com/shivakalaiarasan2008-cpu)
 
 ---
 
 ### 🌐 Projects
-
-**Sakthi Care**  
-Website for Sakthi Social Service's medical bed rental service, deployed on Vercel  
-🔗 [Live Site](https://sakthi-care.vercel.app/)
-
-**Sakthi Social Service Freezer Box**  
-Second website built and deployed on Vercel  
-🔗 [Live Site](https://shakti-social-service-freezer-box-t.vercel.app/)
+- **Sakthi Care** — Website built for a local social service shop, deployed on Vercel  
+  🔗 [Live Site](https://sakthi-care.vercel.app/)
 
 ---
 
 ### 🚀 Currently Working On
-- 🔹 Strengthening Python & C fundamentals  
-- 🔹 Mastering Git workflows — fork, branch, commit, PR  
-- 🔹 Exploring open-source orgs: **Oppia**, **Zulip**, **Learning Unlimited**  
-- 🔹 Building small personal projects to sharpen my skills  
+- 🔹 Strengthening Python & C fundamentals
+- 🔹 Mastering Git workflows — fork, branch, commit, PR
+- 🔹 Exploring open-source orgs: **Oppia**, **Zulip**, **Learning Unlimited**
+- 🔹 Building small personal projects to sharpen my skills
 
 ---
 
 ### 🛠️ Tech Stack
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -49,7 +42,6 @@ Second website built and deployed on Vercel
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivakalaiarasan2008-cpu&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivakalaiarasan2008-cpu&theme=radical&hide_border=true" width="48%" />
