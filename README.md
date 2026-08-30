@@ -3,7 +3,7 @@
 <h3 align="center">First-Year Engineering Student • Aspiring Open-Source Contributor</h3>
 
 <p align="center">
-https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Learning+Python%2C+C%2FC%2B%2B+and+Git%2FGitHub;Chasing+my+first+GSoC+contribution;Building+real+projects+one+repo+at+a+time
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Learning+Python%2C+C%2FC%2B%2B+and+Git%2FGitHub;Chasing+my+first+GSoC+contribution;Building+real+projects+one+repo+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -93,4 +93,3 @@ https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2
 ---
 
 <p align="center"><i>⭐ On the journey to my first open-source contribution — one commit at a time.</i></p>
-
