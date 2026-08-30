@@ -4,7 +4,7 @@
 <h3 align="center">First-Year Engineering Student • Aspiring Open-Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Learning+Python%2C+C%2FC%2B%2B+and+Git%2FGitHub;Chasing+my+first+GSoC+contribution;Building+real+projects+one+repo+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Learning+Python%2C+C%2FC%2B%2B+and+Git%2FGitHub;Chasing+my+first+GSoC+contribution;Building+real+projects+one+repo+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@
 
 ## 🌐 Projects
 
-- **Sakthi Care** — Medical bed rental website built for a local business, deployed on Vercel.
+- **Sakthi Care** — Medical bed rental website built for a local business.
   🔗 [Live Site](https://sakthi-care.vercel.app/)
-- **Freezer Box Service** — Website for a local freezer box rental service, deployed on Vercel.
+- **Freezer Box Service** — Website for a local freezer box rental service.
   🔗 [Live Site](https://shakti-social-service-freezer-box-t.vercel.app/)
 
 ---
