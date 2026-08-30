@@ -14,6 +14,8 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" alt="coding" height="300px" width="300px" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
+
 - 🎓 Engineering Fresher at **KPRIET**, Tamil Nadu — first year, IT department
 - 🌱 Currently learning **Python, C, C++, HTML/CSS, and Git/GitHub**
 - 🎯 Working toward my first **Google Summer of Code (GSoC)** contribution
@@ -36,7 +38,7 @@
 ## 🚀 Currently Working On
 
 - 🔹 Strengthening **Python & C/C++** fundamentals
-- 🔹 Mastering **Git workflows** — fork, branch, commit, pull request
+- 🔹 Mastering **Git workflows** — fork, branch, commit, PR
 - 🔹 Exploring open-source orgs: **AOSSIE, Wagtail, Oppia, Sugar Labs, Learning Unlimited**
 - 🔹 Preparing for my next **Smart India Hackathon (SIH)** round
 - 🔹 Building small personal projects to sharpen my skills
