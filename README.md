@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Shiva 👋</h1>
 
 <h3 align="center">First-Year Engineering Student • Aspiring Open-Source Contributor</h3>
@@ -12,9 +13,9 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Talking about my Personal Stuffs
 
-<img align="right" alt="coding" height="300px" width="300px" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
+<img align="right" alt="coding" height="300px" width="300px" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 - 🎓 Engineering Fresher at **KPRIET**, Tamil Nadu — first year, IT department
 - 🌱 Currently learning **Python, C, C++, HTML/CSS, and Git/GitHub**
