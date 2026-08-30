@@ -36,7 +36,7 @@
 ## 🚀 Currently Working On
 
 - 🔹 Strengthening **Python & C/C++** fundamentals
-- 🔹 Mastering **Git workflows** — fork, branch, commit, PR
+- 🔹 Mastering **Git workflows** — fork, branch, commit, pull request
 - 🔹 Exploring open-source orgs: **AOSSIE, Wagtail, Oppia, Sugar Labs, Learning Unlimited**
 - 🔹 Preparing for my next **Smart India Hackathon (SIH)** round
 - 🔹 Building small personal projects to sharpen my skills
