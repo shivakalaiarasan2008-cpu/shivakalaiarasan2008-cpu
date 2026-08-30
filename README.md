@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Talking about my Personal Stuffs
 
-<img align="right" alt="coding" height="300px" width="300px" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img align="right" alt="coding" width="212px" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif">
 
 - 🎓 Engineering Fresher at **KPRIET**, Tamil Nadu — first year, IT department
 - 🌱 Currently learning **Python, C, C++, HTML/CSS, and Git/GitHub**
