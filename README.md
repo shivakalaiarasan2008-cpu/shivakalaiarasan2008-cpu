@@ -4,11 +4,11 @@
 <h3 align="center">First-Year Engineering Student • Aspiring Open-Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Learning+Python%2C+C%2FC%2B%2B+and+Git%2FGitHub;Chasing+my+first+GSoC+contribution;Building+real+projects+one+repo+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Learning+Python%2C+C%2FC%2B%2B+and+Git%2FGitHub;Chasing+my+first+open+source+contribution;Building+real+projects+one+repo+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,github,vscode,gcp,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,git,github,vscode,vercel,cloudflare" />
 </p>
 
 ---
@@ -29,10 +29,8 @@
 
 ## 🌐 Projects
 
-- **Sakthi Care** — Medical bed rental website built for a local business.
-  🔗 [Live Site](https://sakthi-care.vercel.app/)
-- **Freezer Box Service** — Website for a local freezer box rental service.
-  🔗 [Live Site](https://shakti-social-service-freezer-box-t.vercel.app/)
+- **[Sakthi Care](https://sakthi-care.vercel.app/)** — Medical bed rental website built for a local business.
+- **[Freezer Box Service](https://shakti-social-service-freezer-box-t.vercel.app/)** — Website for a local freezer box rental service.
 
 ---
 
@@ -61,7 +59,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -70,6 +68,24 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OmniDimension-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LiveKit-FF3B30?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stitch-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/21st.dev-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manus-2E2E2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rev%20AI-FF4F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Higgsfield-000000?style=for-the-badge"/>
 </p>
 
 ---
