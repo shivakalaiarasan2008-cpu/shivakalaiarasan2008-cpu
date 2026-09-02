@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./header.png" alt="Tech Stack Banner" width="100%">
+</p>
 <h1 align="center">Hi there, I'm Shiva 👋</h1>
 
 <h3 align="center">First-Year Engineering Student • Aspiring Open-Source Contributor</h3>
