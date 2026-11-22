@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 Talking about my Personal Stuffs in this code dont change anything just i need thyat badge at atmost left corner
+## 🧑‍💻 Talking about my Personal Stuffs
 <img align="right" alt="Excited AI Dance" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 - 🎓 Engineering Fresher at **KPRIET**, Tamil Nadu — first year, IT department
