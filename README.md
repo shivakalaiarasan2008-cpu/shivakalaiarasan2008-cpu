@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,git,github,vscode,vercel,cloudflare" />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=python,c,cpp,html,git,github,vscode,vercel,cloudflare" alt="Skills" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://komarev.com/ghpvc/?username=shivakalaiarasan2008-cpu&label=Profile%20views&color=d4b3df&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -99,3 +99,4 @@
 ---
 
 <p align="center"><i>⭐ On the journey to my first open-source contribution — one commit at a time.</i></p>
+<sub>© 2026 shivakalaiarasan2008-cpu • All rights reserved. Please don't copy without permission.</sub>
